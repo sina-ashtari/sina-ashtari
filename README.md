@@ -1,4 +1,4 @@
-# Hello, I'm Sina 👋
+# 👋 Hello, I'm Sina 
 
 I'm a Android developer . Welcome to my GitHub profile, where you can explore some of the projects I've been working on.
 
