@@ -3,7 +3,7 @@
 I'm a Android developer . Welcome to my GitHub profile, where you can explore some of the projects I've been working on.
 
 # 💻 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,figma,xd,sqlite&theme=dark)](https://skillicons.dev)
+Java/ Kotlin | View/ Jetpack Compose | REST APIs/ Retrofit  | Coroutines | Dagger/ Hilt  | SQLite/ Realm/ Room | Design Patterns/ SOLID Principles | Clean Architecture | MVVM/ MVI | Groovy/ Gradle | Git/ Github | JUnit/ Espresso | Android SDK | Figma | Material | Linux  
 
 ## 🌱 Currently Learning
 
