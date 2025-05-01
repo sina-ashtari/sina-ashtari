@@ -1,13 +1,13 @@
 # 👋 Hello, I'm Sina 
 
-I'm a Android developer . Welcome to my GitHub profile, where you can explore some of the projects I've been working on.
+I'm a C# backend developer . Welcome to my GitHub profile, where you can explore some of the projects I've been working on.
 
 # 💻 Tech Stack
-Java/ Kotlin | View/ Jetpack Compose | REST APIs/ Retrofit  | Coroutines | Dagger/ Hilt  | SQLite/ Realm/ Room | Design Patterns/ SOLID Principles | Clean Architecture | MVVM/ MVI | Groovy/ Gradle | Git/ Github | JUnit/ Espresso | Android SDK | Figma | Material | Linux  
+C#/.NET | Minimal APIs/ REST APIs | SQL Server/ PostgreSQL | Design Patterns | SignalR | Docker | Test-driven development | Git 
 
 ## 🌱 Currently Learning
 
-Everything i should know to be more known as an Android Developer!
+Everything i should know to be more known as a C# backend Developer!
 
 ## 📈 GitHub Stats
 
@@ -15,4 +15,4 @@ Everything i should know to be more known as an Android Developer!
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sina-ashtari&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🤝 Let's Connect
-- For professional inquiries, reach out via sinaa.m1383@gmail.com .
+- For professional inquiries, reach out via sinaashtari004@gmail.com .
