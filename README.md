@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Sina 
 
-I'm a dotnet backend developer . Welcome to my GitHub profile, where you can explore some of the projects I've been working on.
+I'm a dotnet backend developer (And an ex Android Developer). Welcome to my GitHub profile, where you can explore some of the projects I've been working on.
 
 # 💻 Tech Stack
   
