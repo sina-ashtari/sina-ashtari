@@ -18,8 +18,25 @@ I'm a dotnet backend developer (And an ex Android Developer). Welcome to my GitH
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
       <br>Docker
     </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="Rabbitmq" />
+      <br>Rabbitmq
+    </td>
+        <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="js" />
+      <br>js
+    </td>
+        </td>
+        <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="azure" />
+      <br>azure
+    </td>
   </tr>
   <tr>
+        <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="mongodb" />
+      <br>dotnet
+    </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
       <br>MySQL
@@ -31,6 +48,15 @@ I'm a dotnet backend developer (And an ex Android Developer). Welcome to my GitH
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="postgres" />
       <br>PostgreSQL
+    </td>
+        <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+      <br>Redis
+    </td>
+        </td>
+        <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="Sqlite" />
+      <br>Sqlite
     </td>
   </tr>  
 </table>
