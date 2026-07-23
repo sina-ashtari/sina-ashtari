@@ -62,7 +62,9 @@ I'm a dotnet backend developer (And an ex Android Developer). Welcome to my GitH
 </table>
 
 
-C#/.NET | Minimal APIs/ REST APIs | SQL Server/ PostgreSQL | Design Patterns | SignalR | Docker | Test-driven development | Git 
+C#, .NET, ASP.NET MVC, Entity Framework Core, REST APIs, DI, RabbitMQ, MassTransit, SQL Server,
+PostgreSQL, MongoDB, Query Optimization, Docker, Git, SignalR, TDD, Design Patterns, JavaScript, jQuery, Kendo UI,
+TFS, Quartz.NET, IIS
 
 ## 🌱 Currently Learning
 
